@@ -6,7 +6,7 @@
 **- 58 Wilayas.**  
 **- 548 Dairas.**  
 **- Support both Arabic and French languages.**  
-**- Built in models relationships, so you can for example do: `Daira.object.get(pk=1).wilaya` to get the Wilaya of Daira with the id=1.**   
+**- Built in models relationships, so you can for example do: `Daira.objects.get(pk=1).wilaya` to get the Wilaya of Daira with the id=1.**   
 
 
 ## Installation
