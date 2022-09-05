@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/05tgtP5.png"></p>
-<h1 align="center">Djnago-Algereography</h1>
+<h1 align="center">Django-Algereography</h1>
 
 **Django-Algereography** allows you to add Models of Algerian Wilayas and Dairas to your existing or new cool Django project .
 
@@ -30,7 +30,7 @@
 Thank you for considering contributing to Laravel-Algereography project! Feel free to contribute in any way, we welcome every contribution.
 
 ## License
-Django-Algereography project is open-sourced software licensed under the [MIT license](https://github.com/bensarifathi/django-algeography/blob/master/LICENCE)
+Django-Algereography project is an open-sourced software licensed under the [MIT license](https://github.com/bensarifathi/django-algeography/blob/master/LICENCE)
 
 ## Credit
 This project was inspied by [Laravel-algerography](https://github.com/theHocineSaad/laravel-algereography).
