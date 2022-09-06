@@ -27,7 +27,7 @@
     python manage.py load_algerography
 
 ## Contributing
-Thank you for considering contributing to Laravel-Algereography project! Feel free to contribute in any way, we welcome every contribution.
+Thank you for considering contributing to Django-Algereography project! Feel free to contribute in any way, we welcome every contribution.
 
 ## License
 Django-Algereography project is an open-sourced software licensed under the [MIT license](https://github.com/bensarifathi/django-algeography/blob/master/LICENCE)
